@@ -8,6 +8,7 @@ public class SalApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SalApplication.class, args);
+		System.out.println("landing page");
 	}
 
 }
